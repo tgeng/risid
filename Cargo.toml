@@ -1,6 +1,8 @@
 [package]
 name = "risid"
 version = "0.1.0"
-authors = ["tgeng"]
+authors = ["Tianyu Geng <tgeng@google.com>"]
+description = "An experiment."
+license = "MIT OR Apache-2.0"
 
 [dependencies]
