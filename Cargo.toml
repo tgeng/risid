@@ -1,0 +1,6 @@
+[package]
+name = "risid"
+version = "0.1.0"
+authors = ["tgeng"]
+
+[dependencies]
